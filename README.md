@@ -1,10 +1,10 @@
 # nataliakishar
 Olá eu sou Natália Kishar
-<h6><font size="2">• Estudante do 5º semestre de Matemátia<br>
-<h6><font size="2">• Universidade Federal do Ceará - UFC <br>
-<h6><font size="2">• Os curso de extensão são na área de tecnologia<br>
-<h6><font size="2">• Trabalho com Blender para front e back end com foco em Jogos Digitais<br>
-<h6><font size="2">• As linguages que uso são Python, HTML e outros<br>
+<h5><font size="2">• Estudante do 5º semestre de Matemátia<br>
+<h5><font size="2">• Universidade Federal do Ceará - UFC <br>
+<h5><font size="2">• Os curso de extensão são na área de tecnologia<br>
+<h5><font size="2">• Trabalho com Blender para front e back end com foco em Jogos Digitais<br>
+<h5><font size="2">• As linguages que uso são Python, HTML e outros<br>
 <div align="center">
   <a href="https://github.com/git3007Na">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=git3007Na&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
