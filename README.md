@@ -6,9 +6,9 @@ Olá eu sou Natália Kishar
 <h5><font size="2">• Trabalho com Blender para front e back end com foco em Jogos Digitais<br>
 <h5><font size="2">• As linguages que uso são Python, HTML e outros<br>
 <div align="center">
-  <a href="https://github.com/git3007Na">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=git3007Na&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git3007Na&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/nataliakishar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliakishar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakishar&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="kishar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
