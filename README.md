@@ -21,4 +21,3 @@ Olá eu sou Natália Kishar
   <a href="https://wa.me/qr/XMTADL4TNCYJF1"_blank"><img height="25em"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="<a href=" "_blank"></a>
     <a href = "nataliaqueiroz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
