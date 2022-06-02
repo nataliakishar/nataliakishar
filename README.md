@@ -19,5 +19,4 @@ Olá eu sou Natália Kishar
   <a href="https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="http://lattes.cnpq.br/7258973510195914"_blank"><img height="35em"src="http://www.portalfea.fea.usp.br/sites/default/files/u6211/icon-curriculo-lattes.png" target="_blank"></a>
   <a href="https://wa.me/qr/XMTADL4TNCYJF1"_blank"><img height="25em"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href="<a href=" "_blank"></a>
-    <a href = "nataliaqueiroz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="<a href=" "_blank"></a>
