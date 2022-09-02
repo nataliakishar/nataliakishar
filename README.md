@@ -6,11 +6,13 @@ Olá eu sou Natália Kishar
 <h5><font size="2">• Blender para front e back end em Jogos Digitais<br>
 <h5><font size="2">• Neurociência Computacional
 <h5><font size="2">• As linguages que uso são Python, HTML e outros<br>
-<div align="center">
-  <a href="https://github.com/nataliakishar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliakishar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakishar&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<hr />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="156" src="https://github-readme-stats.vercel.app/api?username=nataliakishar&theme=radical&show_icons=true&hide=issues" style="max-width: 10%;" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="156" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=8&theme=radical&layout=compact&card_width=240" style="max-width: 100%;" />
+</a>
 <div style="display: inline_block"><br>
 <img align="center" alt="kishar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="kishar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
