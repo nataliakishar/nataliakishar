@@ -3,7 +3,6 @@ Olá eu sou Natália Kishar
 <h5><font size="2">• Estudante de Matemátia<br>
 <h5><font size="2">• Universidade Federal do Ceará - UFC <br>
 <h5><font size="2">• Àrea de programação de sistemas<br>
-<h5><font size="2">• Blender para front e back end em Jogos Digitais<br>
 <h5><font size="2">• Neurociência Computacional
 <h5><font size="2">• As linguages que uso são Python, HTML e outros<br>
 <hr />
