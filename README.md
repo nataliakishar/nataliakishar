@@ -1,10 +1,11 @@
 # nataliakishar
-Olá eu sou Natália Kishar
+Olá eu sou Natália Kishar (Ramos A. V.)
+<h5><font size="2">• Estudante de Sistemas de Informação<br>
+<h5><font size="2">• Unichristus<br>
 <h5><font size="2">• Estudante de Matemátia<br>
 <h5><font size="2">• Universidade Federal do Ceará - UFC <br>
-<h5><font size="2">• Àrea de programação de sistemas<br>
-<h5><font size="2">• Neurociência Computacional
-<h5><font size="2">• As linguages que uso são TypeScript, Python, HTML e outros<br>
+<h5><font size="2">• Àrea Full Stack developer>
+<h5><font size="2">• As linguages que uso são Python e outros<br>
 <hr />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="156" src="https://github-readme-stats.vercel.app/api?username=nataliakishar&theme=radical&show_icons=true&hide=issues" style="max-width: 10%;" />
