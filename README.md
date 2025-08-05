@@ -4,7 +4,7 @@ Olá eu sou Natália Kishar (Ramos A. V.)
 <h5><font size="2">• Unichristus<br>
 <h5><font size="2">• Estudante de Matemátia<br>
 <h5><font size="2">• Universidade Federal do Ceará - UFC <br>
-<h5><font size="2">• <Àrea Full Stack developer>
+<h5><font size="2">• Àrea Full Stack developer>
 <h5><font size="2">• As linguages que uso são Python e outros<br>
 <hr />
 <a href="https://github.com/anuraghazra/github-readme-stats">
