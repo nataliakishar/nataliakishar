@@ -9,9 +9,7 @@ Olá eu sou Natália Kishar (Ramos A. V.)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="156" src="https://github-readme-stats.vercel.app/api?username=nataliakishar&theme=radical&show_icons=true&hide=issues" style="max-width: 10%;" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="156" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=8&theme=radical&layout=compact&card_width=240" style="max-width: 100%;" />
-</a>
+
 <div style="display: inline_block"><br>
 <img align="center" alt="kishar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="kishar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
