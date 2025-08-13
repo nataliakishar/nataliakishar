@@ -3,15 +3,10 @@
 <h3 align="center"> Student 🌐 Web and mobile developer</h3>
 
 
-- I’m currently study Sistemas de Informação [Unichristus](https://www.unichristus.edu.br/)
-- I’m currently study Matemática trancado [Universidade Federal do Ceará](https://www.ufc.br/)
-
-- I’m currently learning 
-
-- All of my projects are available [here](nataliaramos.github.io)
-
+- I’m currently study Sistemas de Informação <a href="https://www.unichristus.edu.br/" target="_blank" rel="noopener noreferrer">Unichristus</a>
+- I’m currently study Matemática trancado <a href="https://www.ufc.br/" target="_blank" rel="noopener noreferrer">Universidade Federal do Ceará</a>
+- All of my projects are available <a href="https://nataliaramos.github.io" target="_blank" rel="noopener noreferrer">here</a>
 - Ask me about **Software Development**
-
 - How to reach me **nataliaqueiroz@alu.ufc.br**
 
 ### 🤝 Connect with me:
