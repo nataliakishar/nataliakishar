@@ -1,6 +1,6 @@
 
   <h1 align="center">Hi <img <img width="30" height="477" alt="pIXELnA4" src="https://github.com/user-attachments/assets/a01a29ac-c681-47a2-b458-61cb82b40251" /> , I'm Natália Ramos</h1>
-<h3 align="center"> Estudate 🌐 web and mobile developer</h3>
+<h3 align="center"> Student 🌐 Web and mobile developer</h3>
 
 
 - I’m currently study Sistemas de Informação [Unichristus](https://www.unichristus.edu.br/)
