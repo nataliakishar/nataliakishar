@@ -4,7 +4,7 @@
 
 
 - I’m currently study Sistemas de Informação [Unichristus](https://www.unichristus.edu.br/)
-- I’m currently study Matemática trancado [Universidade Federak do Ceará](https://www.ufc.br/)
+- I’m currently study Matemática trancado [Universidade Federal do Ceará](https://www.ufc.br/)
 
 - I’m currently learning 
 
