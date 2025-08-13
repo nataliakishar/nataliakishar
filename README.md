@@ -6,7 +6,7 @@
 - I’m currently study Sistemas de Informação <a href="https://www.unichristus.edu.br/" target="_blank" rel="noopener noreferrer">Unichristus</a>
 - I’m currently study Matemática trancado <a href="https://www.ufc.br/" target="_blank" rel="noopener noreferrer">Universidade Federal do Ceará</a>
 - All of my projects are available <a href="https://nataliaramos.github.io" target="_blank" rel="noopener noreferrer">here</a>
-- Ask me about **Software Development**
+- **Software Development** Student 
 - How to reach me **nataliaqueiroz@alu.ufc.br**
 
 ### 🤝 Connect with me:
