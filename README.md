@@ -51,6 +51,17 @@
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
 [![pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
 
+### 3D design/modeling tools
+
+<img alt="Blender" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_Blender.svg/512px-Logo_Blender.svg.png" />
+
+### No-code development platforms
+
+<img alt="Thunkable" height="24px" src="https://cdn.prod.website-files.com/63b59ece6123439ac23e226f/63f4719281106972f5c9dbd8_thunkable-nav-logo.png" />
+
+### Visual programming educational environments
+
+<img alt="Scratch" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Scratchlogo.svg/512px-Scratchlogo.svg.png" />
 
 ### 🧠 IDEs/Text Editors I use
 
