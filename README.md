@@ -2,7 +2,10 @@
  <h1  <h1 align="center"> <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Hi <img <img width="30" height="477" alt="pIXELnA4" src="https://github.com/user-attachments/assets/a01a29ac-c681-47a2-b458-61cb82b40251"  />  I'm Natália Ramos </h1>
 <h3 align="center"> <img align="center" alt="kishar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Student 🌐 Web and mobile developer</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Natália+Ramos.+;+Estudante+e+criadora+de+conteúdo+de+programação!+;+Interesse+em+Desenvolvimento+de+App.;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Natália+Ramos.+;+Estudante+e+criadora+de+conteúdo+de+programação!+;+Interesse+em+Desenvolvimento+de+App.;Seja+bem-vindo(a)!)<img src="https://github.com/user-attachments/assets/4c006f01-6bd0-4a47-96f8-9c6fcf369a91" width="30" height="47" alt="personagem sorridente">](https://git.io/typing-svg) 
+
+
+
 
 
 - I am currently studying Information Systems <a href="https://www.unichristus.edu.br/" target="_blank" rel="noopener noreferrer">Unichristus</a>
