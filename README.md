@@ -10,18 +10,24 @@
 - How to reach me **nataliaqueiroz@alu.ufc.br**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="156" src="https://github-readme-stats.vercel.app/api?username=nataliakishar&theme=radical&show_icons=true&hide=issues" style="max-width: 10%;" />
+  <img width="41%" height="195px"src="https://github-readme-stats.vercel.app/api?username=nataliakishar&theme=radical&show_icons=true&hide=issues" style="max-width: 10%;" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakishar&theme=radical&show_icons=true&hide=issues" style="max-width: 20%;"/>
+ 
 </a>
 
 ### 🤝 Connect with me:
 
 <div style="display: inline_block"><br>
 
-<div> 
+ <div align="center">
   <a href="https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/na.r.a.v/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rbiomatematica@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nat%C3%A1lia-ramos-b9322148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="http://lattes.cnpq.br/7258973510195914"_blank"><img height="35em"src="http://www.portalfea.fea.usp.br/sites/default/files/u6211/icon-curriculo-lattes.png" target="_blank"></a>
   <a href="https://wa.me/qr/XMTADL4TNCYJF1"_blank"><img height="25em"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="<a href=" "_blank"></a>
+</div>
+
 
 ### 🧑‍💻 Languages
 
