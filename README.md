@@ -1,5 +1,5 @@
 
-  <h1 align="center"> <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">Hi   I'm Natália Ramos <img <img width="30" height="477" alt="pIXELnA4" src="https://github.com/user-attachments/assets/a01a29ac-c681-47a2-b458-61cb82b40251" /></h1>
+ <h1  <h1 align="center"> <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Hi <img <img width="30" height="477" alt="pIXELnA4" src="https://github.com/user-attachments/assets/a01a29ac-c681-47a2-b458-61cb82b40251"  />  I'm Natália Ramos </h1>
 <h3 align="center"> Student 🌐 Web and mobile developer</h3>
 
 
