@@ -1,6 +1,6 @@
 
  <h1  <h1 align="center"> <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Hi <img <img width="30" height="477" alt="pIXELnA4" src="https://github.com/user-attachments/assets/a01a29ac-c681-47a2-b458-61cb82b40251"  />  I'm Natália Ramos </h1>
-<h3 align="center"> Student 🌐 Web and mobile developer</h3>
+<h3 align="center"> <img align="center" alt="kishar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Student 🌐 Web and mobile developer</h3>
 
 
 - I am currently studying Information Systems <a href="https://www.unichristus.edu.br/" target="_blank" rel="noopener noreferrer">Unichristus</a>
@@ -9,18 +9,14 @@
 - **Software Development** Student 
 - How to reach me **nataliaqueiroz@alu.ufc.br**
 
-### 🤝 Connect with me:
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="156" src="https://github-readme-stats.vercel.app/api?username=nataliakishar&theme=radical&show_icons=true&hide=issues" style="max-width: 10%;" />
 </a>
 
+### 🤝 Connect with me:
+
 <div style="display: inline_block"><br>
-<img align="center" alt="kishar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="kishar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="kishar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="kishar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="kishar-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
 <div> 
   <a href="https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="http://lattes.cnpq.br/7258973510195914"_blank"><img height="35em"src="http://www.portalfea.fea.usp.br/sites/default/files/u6211/icon-curriculo-lattes.png" target="_blank"></a>
