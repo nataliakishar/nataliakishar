@@ -3,7 +3,7 @@
 <h3 align="center"> Student 🌐 Web and mobile developer</h3>
 
 
-- I’m currently study Sistemas de Informação <a href="https://www.unichristus.edu.br/" target="_blank" rel="noopener noreferrer">Unichristus</a>
+- I am currently studying Information Systems <a href="https://www.unichristus.edu.br/" target="_blank" rel="noopener noreferrer">Unichristus</a>
 - I am currently studying Mathematics (Locked status) <a href="https://www.ufc.br/" target="_blank" rel="noopener noreferrer">Universidade Federal do Ceará</a>
 - All of my projects are available <a href="https://nataliaramos.github.io" target="_blank" rel="noopener noreferrer">here</a>
 - **Software Development** Student 
