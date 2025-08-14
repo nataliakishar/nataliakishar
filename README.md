@@ -5,7 +5,7 @@
 
 - I am currently studying Information Systems <a href="https://www.unichristus.edu.br/" target="_blank" rel="noopener noreferrer">Unichristus</a>
 - I am studying Mathematics (Locked status) <a href="https://www.ufc.br/" target="_blank" rel="noopener noreferrer">Universidade Federal do Ceará</a>
-- All of my projects are available <a href="https://nataliaramos.github.io" target="_blank" rel="noopener noreferrer">here</a>
+- All of my projects are available <a href="nataliakishar.github.io " target="_blank" rel="noopener noreferrer">here</a>
 - **Software Development** Student 
 - How to reach me **nataliaqueiroz@alu.ufc.br**
 
