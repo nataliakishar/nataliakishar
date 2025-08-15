@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Natália+Ramos.+;+Estudante+e+criadora+de+conteúdo+de+programação!+;+Interesse+em+Desenvolvimento+de+App.;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006400&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Natália+Ramos.+;+Estudante+e+criadora+de+conteúdo+de+programação!+;+Interesse+em+Desenvolvimento+de+App.;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 <h3 align="center"> <img align="center" alt="kishar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Student 🌐 Web and mobile developer</h3>
 
 
