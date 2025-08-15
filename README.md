@@ -49,6 +49,8 @@
 [![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
 [![postgresql](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
 
+<img alt="Thunkable" height="50px" src="https://github.com/user-attachments/assets/0b76141c-01f3-4fba-8ac8-6284a0cf00cb" />
+
 ### ⚒️ Tools
 
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
@@ -71,15 +73,13 @@
 
 ### 🧠 IDEs/Text Editors I use
 
-[![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
+<img alt="Thunkable" height="50px" src="https://github.com/user-attachments/assets/5ba3c4ba-9244-45f9-b426-4208407f5904" />
 
 ### 💻 Workspace
 
-[![unix](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
+<img alt="Thunkable" height="50px"  src="https://github.com/user-attachments/assets/d9899113-fcff-4832-b8a7-e8d0058c9dbc" />
+<img alt="Thunkable" height="50px"  src="https://github.com/user-attachments/assets/44100cd1-72c2-4f85-993b-977690ee5adb" />
 
-<!-- 
-[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
--->
 
 <!-- [![hp laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
 [![acer monitor](https://img.shields.io/badge/acer%20monitor-83B81A?style=for-the-badge&logo=acer&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg) -->
