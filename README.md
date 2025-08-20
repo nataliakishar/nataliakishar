@@ -33,8 +33,6 @@
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
 [![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
-[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
-[![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
 
