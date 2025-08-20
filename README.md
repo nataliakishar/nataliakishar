@@ -9,8 +9,17 @@
 - How to reach me **nataliaqueiroz@alu.ufc.br**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nataliakishar&theme=radical&show_icons=true&hide=issues" />
- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakishar&theme=radical&show_icons=true&hide=issues" />
+ <style>
+.img-square {
+  width: 200px;
+  height: 200px;
+  object-fit: cover; /* ou "contain" para manter proporção */
+}
+</style>
+
+<img class="img-square" src="https://github-readme-stats.vercel.app/api?username=nataliakishar&theme=radical&show_icons=true&hide=issues" />
+<img class="img-square" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakishar&theme=radical&show_icons=true&hide=issues" />
+
 </a>
 
 ### 🤝 Connect with me:
