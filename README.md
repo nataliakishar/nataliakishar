@@ -8,16 +8,7 @@
 - All of my projects are available <a href="https://nataliakishar.github.io/" target="_blank" rel="noopener noreferrer">here</a>
 - How to reach me **nataliaqueiroz@alu.ufc.br**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<div align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api?username=nataliakishar&theme=radical&show_icons=true&hide=issues" style="height:195px;" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliakishar&theme=radical&show_icons=true&hide=issues" style="height:195px; object-fit:contain;" />
 
-</div>
-
-
-</div>
-</a>
 
 ### 🤝 Connect with me:
 
@@ -33,55 +24,70 @@
 </div>
 
 
-### 🧑‍💻 Languages
+## 🚀 Visão Rápida
 
-[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
-[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
-[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
-[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
-
-### 🧩 Frameworks/Libraries
-
-[![ionic](https://img.shields.io/badge/Ionic-20232A?style=for-the-badge&logo=ionic&logoColor=61DAFB)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
-[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
-
-### 🗃️ Databases
-
-[![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
-[![postgresql](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
-
-<img alt="Thunkable" height="50px" src="https://github.com/user-attachments/assets/0b76141c-01f3-4fba-8ac8-6284a0cf00cb" />
-
-### ⚒️ Tools
-
-[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
-[![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
-[![pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
-
-### 3D design
-
-<img alt="Blender" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_Blender.svg/512px-Logo_Blender.svg.png" />
-
-### No-code 
-
-<img alt="Thunkable" height="24px" src="https://cdn.prod.website-files.com/63b59ece6123439ac23e226f/63f4719281106972f5c9dbd8_thunkable-nav-logo.png" />
-
-### Visual programming 
-
-<img alt="Scratch" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Scratchlogo.svg/512px-Scratchlogo.svg.png" />
-
-### 🧠 IDEs/Text Editors I use
-
-<img alt="Thunkable" height="50px" src="https://github.com/user-attachments/assets/5ba3c4ba-9244-45f9-b426-4208407f5904" />
-
-### 💻 Workspace
-
-<img alt="Thunkable" height="50px"  src="https://github.com/user-attachments/assets/d9899113-fcff-4832-b8a7-e8d0058c9dbc" />
-<img alt="Thunkable" height="50px"  src="https://github.com/user-attachments/assets/44100cd1-72c2-4f85-993b-977690ee5adb" />
+| **Área** | **Competências e Tecnologias** |
+|-----------|-------------------------------|
+| **Backend** | Next.js API Routes, FastAPI, Flask, Node.js; criação e integração de APIs REST e GraphQL; automação com Python e IA (GPT-4) |
+| **Frontend** | Next.js 15 (React 19), TypeScript, Tailwind CSS, Radix UI; desenvolvimento de SPAs performáticas e acessíveis; design system e boas práticas de UI/UX |
+| **Integrações** | Stripe (pagamentos), OpenAI API, Supabase, Webhooks, WooCommerce, ERPs e automações entre plataformas SaaS |
+| **Banco de Dados** | Supabase (PostgreSQL), MySQL; modelagem relacional, RLS, otimização de queries e versionamento de schema |
+| **Infraestrutura e Deploy** | Docker, Vercel, VPS, CI/CD, versionamento Git/GitHub; pipelines de deploy automatizado e monitoramento de aplicações |
+| **Qualidade e Boas Práticas** | Testes unitários (PHPUnit, Pest, JUnit), Clean Code, SOLID, documentação técnica e code review colaborativo |
+| **Automação e IA** | Integração de GPT-4, processamento de linguagem natural, visão computacional, scripts e jobs assíncronos para automação de processos |
+| **Gestão e Organização** | ClickUp, CRM, liderança de equipes técnicas, suporte e atendimento ao cliente; comunicação clara e foco em resultados |
+| **Complementares** | Web design, copywriting técnico, lógica de programação, estrutura de dados, afinidade tecnológica e raciocínio lógico avançado |
 
 
-<!-- [![hp laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg)
-[![acer monitor](https://img.shields.io/badge/acer%20monitor-83B81A?style=for-the-badge&logo=acer&logoColor=white)](https://www.youtube.com/channel/UCwvkyv8QI-ocrnZ4Z6Te8Hg) -->
+---
+
+## 🛠️ Stack Principal
+
+**Linguagens:** Java · PHP · JavaScript/TypeScript · Python · SQL  
+**Backend:** Spring Boot · Laravel · Node/Express · Django  
+**Frontend:** React · Vite · Tailwind · Bootstrap  
+**Mobile / Desktop:** Android (Java) · JavaFX · Swing  
+**Integrações & E-commerce:** WooCommerce API · Gateways de Pagamento · Webhooks  
+**Banco de Dados:** MySQL · PostgreSQL · SQLite  
+**Testes:** PHPUnit · Pest · JUnit · Espresso · Mockito  
+**Ferramentas & DevOps:** Git · Docker (básico) · Redis (filas) · GraphQL (Apollo)  
+**Práticas:** MVC · Clean Architecture · SOLID · Domain Events · Repository Pattern
+
+---
+
+## 💼 Experiência
+
+
+
+## 🏗️ Projetos Relevantes
+
+
+
+🔗 Mais projetos: [GitHub](https://github.com/nataliakishar)
+
+---
+
+## 📜 Certificações & Formação
+
+
+
+---
+
+## 🎯 Próximos Passos
+
+Aprofundar em: testes avançados, mensageria/filas, otimização de queries, arquitetura orientada a eventos, observabilidade e segurança.
+
+---
+
+## 📫 Contato
+
+📧 **Email:** nataliakishardev@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/nataliaramosdev](https://www.linkedin.com/in/nataliaramosdev/)  
+📍 **Local:** Fortaleza – CE – Brasil  
+🌐 **Portfólio:** [lucky-longma-bbab3f.netlify.app](https://lucky-longma-bbab3f.netlify.app/)
+
+---
+
+<div align="center">
+  <i>"Código limpo, automação e entrega de valor contínua."</i>
+</div>
