@@ -44,10 +44,10 @@
 
 ## 🛠️ Stack Principal
 
-**Linguagens:** Java · PHP · JavaScript/TypeScript · Python · SQL  
+**Linguagens:** · PHP · JavaScript/TypeScript · Python · SQL  
 **Backend:** Spring Boot · Laravel · Node/Express · Django  
 **Frontend:** React · Vite · Tailwind · Bootstrap  
-**Mobile / Desktop:** Android (Java) · JavaFX · Swing  
+**Mobile / Desktop:** Android (JavaScript/TypeScript)  
 **Integrações & E-commerce:** WooCommerce API · Gateways de Pagamento · Webhooks  
 **Banco de Dados:** MySQL · PostgreSQL · SQLite  
 **Testes:** PHPUnit · Pest · JUnit · Espresso · Mockito  
