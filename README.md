@@ -97,6 +97,7 @@ Minha trajetória inclui **residência em Inteligência Artificial**, desenvolvi
 **Práticas:** MVC · Clean Architecture · SOLID · Domain Events · Repository Pattern  
 **IA Generativa:** OpenAI API · Groq · LLMs · Function Calling · Prompt Engineering  
 **Autenticação:** NextAuth · Controle de acesso · Integração com serviços de autenticação  
+**Cloud:** AWS — fundamentos de computação em nuvem e conhecimentos em serviços de infraestrutura, dados e IA.
 
 ### 📚 Formação e estudos em Dados e IA
 
