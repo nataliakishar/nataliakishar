@@ -1,11 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=30&center=true&vCenter=true&width=1000&height=70&duration=3500&pause=1200&lines=Ol%C3%A1%2C+sou+Nat%C3%A1lia+Ramos!;Desenvolvedora+Full+Stack+%7C+IA+Aplicada;Python%2C+LLMs+e+APIs%3A+da+ideia+%C3%A0+aplica%C3%A7%C3%A3o;Construindo+solu%C3%A7%C3%B5es+com+IA+e+dados)](https://github.com/nataliakishar)
 
 <h3 align="center">
-  <img align="center" alt="kishar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  Student 🌐 Web and mobile developer
-</h3>
-
-<h3 align="center">
   🧠 Full Stack Developer | Applied AI & Data | Backend
 </h3>
 
