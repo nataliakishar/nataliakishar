@@ -303,7 +303,7 @@ Aprofundar em: testes avançados, mensageria/filas, otimização de queries, arq
 📧 **Email:** nataliakishardev@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/nataliaramosdev](https://www.linkedin.com/in/nataliaramosdev/)  
 📍 **Local:** Fortaleza – CE – Brasil  
-🌐 **Portfólio:** [lucky-longma-bbab3f.netlify.app](https://lucky-longma-bbab3f.netlify.app/)  
+🌐 **Portfólio:** [https://optsyssolutions-portfolio.vercel.app/](https://optsyssolutions-portfolio.vercel.app/)  
 🐙 **GitHub:** [github.com/nataliakishar](https://github.com/nataliakishar)
 
 ---
