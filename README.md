@@ -19,7 +19,7 @@
 
 - I am currently studying Information Systems at <a href="https://www.unichristus.edu.br/" target="_blank" rel="noopener noreferrer">Unichristus</a>.
 - My Mathematics studies at <a href="https://www.ufc.br/" target="_blank" rel="noopener noreferrer">Universidade Federal do Ceará</a> are currently on hold.
-- All of my projects are available <a href="https://nataliakishar.github.io/" target="_blank" rel="noopener noreferrer">here</a>.
+- All of my projects are available <a href="https://optsyssolutions-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">here</a>.
 - How to reach me: **nataliaqueiroz@alu.ufc.br**
 - 🧠 Experience in Artificial Intelligence Residency — **CTE-IA / UFC**.
 - 💻 Full stack development experience through **Instituto iRede** and projects for **LABVIS/UFC**.
